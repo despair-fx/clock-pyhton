@@ -4,7 +4,7 @@ from tkinter.ttk import *
 from time import strftime
 
 root = Tk()
-root.title("Clock - *Akaza*")
+root.title("Clock - despir-fx")
 
 def time():
     string = strftime("%I:%M:%S %p")
